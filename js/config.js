@@ -14,15 +14,15 @@ var l_serverImage = "";
 
 // Center logo?
 // 'true' or 'false'
-var l_centerLogo = true;
+var l_centerLogo = false;
 
 // Display current map and gamemode?
 // 'true' or 'false'
-var l_displayMapGamemode = true;
+var l_displayMapGamemode = false;
 
 // Custom server name configuration
 // Leave it blank for automatic server name
-var l_serverName = "";
+var l_serverName = "Opium Network";
 
 // Use a video for the background?
 // Otherwise it will use images
