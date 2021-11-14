@@ -108,15 +108,14 @@ var l_music = true;
 
 // Display current music name?
 // 'true' or 'false'
-var l_musicDisplay = true;
+var l_musicDisplay = false;
 
 // Music playlist
 // Add as many youtube ids/urls or ogg files you want
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "", name: ""},
-	{ogg: "", name: ""},
+	{ogg: "Ballada", name: ""},
 ];
 
 // Random music order?
@@ -133,8 +132,8 @@ var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
-	"Enjoy the server",
-	"Thanks for joining us!"
+	"Witaj!",
+	"Życzymy miłej gry!"
 ];
 
 // Random message order?
